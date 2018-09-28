@@ -1,0 +1,5 @@
+.DS_STORE
+build/
+dbuild/
+CMakeFiles/
+cmake_install.cmake

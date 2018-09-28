@@ -1,6 +1,0 @@
-[submodule "cppzmq"]
-	path = zeromq-travis/cppzmq
-	url = https://github.com/zeromq/cppzmq.git
-[submodule "libzmq"]
-	path = zeromq-travis/libzmq
-	url = https://github.com/zeromq/libzmq.git
